@@ -59,14 +59,14 @@ To install the latest version, run:
 sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-[Watch Demo]()
+[Watch Demo](https://youtu.be/O5f2ElmBui0)
 
 # Install from a package
 Go to https://download.docker.com/linux/centos/ and choose your version of CentOS. Then browse to x86_64/stable/Packages/ and download the .rpm file for the Docker version you want to install.
 
 Install Docker Engine, changing the following path to the path where you downloaded the Docker package.
 
-[Watch Demo for step by step guide]()
+[Watch Demo for step by step guide](https://youtu.be/tQILzts8NHs)
 
 # Install using the convenience script
 ```bash
@@ -74,4 +74,4 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh ./get-docker.sh --dry-run
 ```
 
-[Watch Demo for step by step guide]()
+[Watch Demo for step by step guide](https://youtu.be/VGtr1jwhtG0)
